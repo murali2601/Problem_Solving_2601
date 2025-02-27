@@ -27,3 +27,9 @@ int main()
     
     return 0;
 }
+/* 
+OUTPUT : 
+
+Murali Dharan
+a
+MurAli DhArAn */
